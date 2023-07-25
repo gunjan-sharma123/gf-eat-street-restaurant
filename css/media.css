@@ -1,0 +1,1504 @@
+@media(max-width: 1800px){
+    .host-rgt img {
+        width: 100%;
+    }
+}
+@media(max-width: 1700px){
+
+}
+@media(max-width: 1660px){
+    .container-fluid.product-con {
+        width: 95%;
+    }
+    .container-fluid.vision-con {
+        width: 95%;
+    }
+    .container-fluid.footer-con {
+        width: 92%;
+    }
+    .container-fluid.banner-con {
+        width: 95%;
+    }
+    .container-fluid.host-con {
+        width: 90%;
+    }
+    .container-fluid.event-team-con {
+        width: 95%;
+    }
+    .container-fluid.event-form-con {
+        width: 95%;
+    }
+    .container-fluid.contact-con {
+        width: 95%;
+    }
+    .container-fluid.visit-con {
+        width: 95%;
+    }
+    .container-fluid.Booking-con {
+        width: 95%;
+    }
+    .container-fluid.booking-tb-con {
+        width: 95%;
+    }
+    .container-fluid.product-cart-con {
+        width: 95%;
+    }
+    .container-fluid.restaurant-con {
+        width: 90%  !important;
+    }
+    .container-fluid.order-con {
+        width: 90% !important;
+    }
+      .container-fluid.des-con {
+        width: 90% !important;
+    }
+    .container-fluid.related-con {
+        width: 90% !important;
+    }
+    .container-fluid.product-cart-con {
+        width: 88%;
+    }
+    .container-fluid.sub-total-sec {
+        width: 90%;
+    }
+    
+    
+  
+}
+@media(max-width: 1500px){
+    .banner-lft h1 {
+        font-size: 52px;
+        line-height: 60px;
+    }
+    ul.social-media-icons:after {
+        left: 42%;
+    }
+    .circle-img img {
+        position: absolute;
+        top: -313%;
+        left: -48%;
+    }
+    .menu-heading h2 {
+        font-size: 92px;
+        line-height: 120px;
+    }
+    .menu-box-sect {
+        margin-top: 115px !important;
+    }
+    .menu-box {
+        height: 456px;
+        width: 100%;
+    }
+    .box-lft-menu h3 {
+        font-size: 30px;
+        line-height: 42px;
+    }
+    .row.about-section {
+        margin: 170px 0px;
+    }
+    section.menu-section {
+        height: 1750px;
+    }
+    .chef-sec-lft p {
+        margin-bottom: 0px;
+        margin-right: 120px;
+    }
+    .chef-sec-lft h4 {
+        font-size: 55px;
+        line-height: 65px;
+    }
+    .customer-msg p br {
+        display: none;
+    }
+    section.customer-review-section {
+        padding-top: 100px;
+        padding-bottom: 320px;
+    }
+    .subscribe-box h5 {
+        font-size: 45px;
+        line-height: 52px;
+        margin-bottom: 40px;
+    }
+    .container-fluid.mission-con {
+        width: 95%;
+    }
+    .host-rgt h3 {
+        font-size: 36px;
+        line-height: 50px;
+        margin-bottom: 18px;
+        margin-top: 15px;
+    }
+    .host-rgt p {
+        margin-right: 53px;
+        margin-bottom: 40px;
+    }
+    .event-team-lft h2 {
+        font-size: 56px;
+        line-height: 65px;
+    }
+    .shop-menu {
+        padding-bottom: 40px;
+        padding-left: 0px;
+    }
+    
+}
+@media(max-width: 1400px){
+    .circle-img img {
+        left: -52%;
+        position: absolute;
+    }
+    .custom-nav a.nav-link {
+        margin-right: 15px;
+    }
+    .contact-main {
+        width: 50%;
+        margin-top: 60px;
+    }
+    .visit-infor-box h3 {
+        font-size: 28px;
+        line-height: 36px;
+        margin-bottom: 26px;
+    }
+    .visit-map iframe {
+        width: 100%;
+        height: 395px;
+    }
+    .restaurant-menu li a {
+        font-size: 30px;
+        font-weight: 500;
+        line-height: 64px;
+    }
+    .container-fluid.product-cart-con {
+        width: 92%;
+    }
+    .container-fluid.sub-total-sec {
+        width: 92%;
+    }
+    .restaurant-bambo-img {
+        width: 48%;
+        flex: 0 0 auto;
+    }
+    
+    
+}
+@media(max-width: 1300px){
+    .circle-img img {
+        position: absolute;
+        top: -380%;
+        left: -55%;
+    }
+    .container-fluid.banner-con {
+        width: 90%;
+    }
+    .site-logo img {
+        padding-top: 25px;
+        width: 225px;
+        height: auto;
+    }
+    .banner-leave3 img {
+        width: 260px;
+        height: 220px;
+    }
+    .row.banner-sec {
+        margin-bottom: 70px;
+    }
+    .banner-lft h1 {
+        font-size: 47px;
+        line-height: 56px;
+    }
+    .menu-heading h2 {
+        font-size: 82px;
+        line-height: 110px;
+    }
+    .chef-sec-lft p {
+        margin-bottom: 0px;
+        margin-right: 71px;
+    }
+    .customer-main h5 {
+        font-size: 32px;
+        line-height: 56px;
+    }
+    .quote-lft-img {
+        left: 26px;
+    }
+    section.menu-section {
+        height: 1670px;
+    }
+    .subscribe-box h5 {
+        font-size: 42px;
+        line-height: 52px;
+        margin-bottom: 40px;
+    }
+    .custom-nav a.nav-link {
+        margin-right: 12px;
+    }
+    .custom-nav a.nav-link {
+        font-size: 18px;
+    }
+    .product-box h3 {
+        font-size: 28px;
+    }
+    .product-box p {
+        font-size: 19px;
+    }
+    .about-heading img {
+        max-width: 100%;
+        height: 75px;
+    }
+    .about-lft h1 {
+        font-size: 42px;
+        line-height: 56px;
+    }
+    .about-lft {
+        margin-right: 150px;
+    }
+    .event-team-rgt img {
+        width: 100%;
+    }
+    .host-rgt {
+        margin-left: 0px;
+    }
+    .host-rgt p {
+        margin-right: 0px;
+        margin-bottom: 15px;
+    }
+    .host-rgt h3 {
+        font-size: 36px;
+        line-height: 42px;
+        margin-bottom: 18px;
+        margin-top: 0px;
+    }
+    .container-fluid.host-con {
+        width: 95%;
+    }
+    .event-team-lft h2 {
+        font-size: 50px;
+        line-height: 62px;
+    }
+    .subpg-heading h2 {
+        font-size: 52px;
+        line-height: 54px;
+        border-bottom: 1px solid #00356A;
+        border-top: 1px solid #00356A;
+        padding: 4px 0px;
+    }
+    .contact-infor-box h3 {
+        font-size: 36px;
+        line-height: 32px;
+    }
+    .contact-infor-box {
+        padding: 50px;
+    }
+    .visit-infor-box {
+        padding: 46px 40px;
+        border: 1px solid #dfdfdf;
+    }
+    .visit-infor-box h3 {
+        font-size: 27px;
+        line-height: 36px;
+        margin-bottom: 26px;
+    }
+    .visit-infor-box .add-rgt p {
+        font-size: 19px;
+        line-height: 26px;
+    }
+    .cart-heading p {
+        font-size: 21px;
+        font-weight: 400;
+    }
+    .total-box h3 {
+        font-size: 32px;
+        font-weight: 700;
+    }
+    .cart-col img {
+        width: 100%;
+    }
+    
+}
+@media(max-width: 1250px){
+    .circle-img img {
+        position: absolute;
+        top: -380%;
+        left: -60%;
+    }
+
+}
+@media(max-width: 1199px){
+    .circle-img img {
+        position: absolute;
+        top: -380%;
+        left: -60%;
+    }
+    ul.social-media-icons:after {
+        left: 49%;
+    }
+    .menu-heading h2 {
+        font-size: 74px;
+        line-height: 110px;
+    }
+    .menu-heading p {
+        font-size: 22px;
+        line-height: 32px;
+        letter-spacing: 0.48px;
+        margin-bottom: 0px;
+    }
+    .box-lft-menu h3 {
+        font-size: 28px;
+        line-height: 40px;
+    }
+    .about-rgt h4 {
+        font-size: 54px;
+        line-height: 65px;
+        margin-bottom: 25px;
+    }
+    .chef-sec-lft h4 {
+        font-size: 46px;
+        line-height: 56px;
+        margin-bottom: 22px;
+    }
+    .subscribe-box h5 {
+        font-size: 40px;
+        line-height: 50px;
+        margin-bottom: 40px;
+    }
+    section.menu-section {
+        height: 1590px;
+    }
+    .container-fluid.chef-con {
+        width: 90%;
+    }
+    .about-rgt {
+        margin-right: 50px;
+        margin-left: 50px;
+    }
+    .quote-rgt-img img {
+        position: absolute;
+        bottom: -64px;
+        right: 80px;
+    }
+    .sign-in {
+        margin-right: 2%;
+    }
+    .contact-main {
+        width: 75%;
+        margin-top: 30px;
+    }
+    .event-team-lft h2 {
+        font-size: 42px;
+        line-height: 50px;
+    }
+    nav.navbar.navbar-expand-lg.custom-nav.sticky.animated.slideDown .site-logo img {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        max-width: 100%;
+        height: 80px;
+        padding-left: 15px;
+    }
+    .event-contact-form {
+        padding-top: 0px;
+    }
+    .contact-infor-box h3 {
+        font-size: 29px;
+        line-height: 32px;
+    }
+    .contact-rgt h2 {
+        font-size: 38px;
+        line-height: 32px;
+        margin-bottom: 40px;
+    }
+    .contact-infor-box .add-rgt p {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .visit-rgt {
+        flex: 0 0 auto;
+        width: 55%;
+    }
+    .visit-lft {
+        width: 45%;
+    }
+    .event-info {
+        padding: 0px;
+    }
+    .book-timing {
+        grid-template-columns: repeat(4, 1fr);
+        width: 100%;
+    }
+    .event-form-rgt {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .cart-heading p {
+        font-size: 20px;
+        font-weight: 400;
+    }
+    .restaurant-menu {
+        justify-content: space-between;
+        gap: 65px !important;
+        padding-bottom: 25px!important;
+    }
+}
+@media(max-width: 1080px){
+    .circle-img img {
+        position: absolute;
+        top: -315%;
+        left: -57%;
+    }
+    .book-btn a {
+        font-size: 20px;
+        line-height: 29px;
+        padding: 15px 15px;
+    }
+    .custom-nav a.nav-link {
+        margin-right: 22px;
+    }
+    section.menu-section {
+        height: 1525px;
+    }
+    .chef-sec-lft p {
+        margin-bottom: 0px;
+        margin-right: 50px;
+    }
+    .hourbox1 {
+        margin-right: 15px;
+    }
+    .hourbox2 {
+        margin-right: 15px;
+    }
+    section.customer-review-section button.owl-prev:before {
+        left: 45%;
+    }
+    .book-btn a {
+        font-size: 19px;
+        line-height: 29px;
+        padding: 15px 15px;
+    }
+    .custom-nav a.nav-link {
+        margin-right: 0px;
+    }
+    .cart-btn img {
+        margin-right: 15px;
+    }
+    .cart-heading p {
+        font-size: 18px;
+        font-weight: 400;
+    }
+    section.product-section .cart-col p {
+        font-size: 19px;
+        font-weight: 500;
+        line-height: 27px;
+}
+.dis-box {
+    width: 85%;
+}
+.total-box {
+    padding: 35px 60px;
+}
+}
+@media(max-width: 1024px){
+    .menu-heading h2 {
+        font-size: 58px;
+        line-height: 110px;
+    }
+    .btn-one a, .btn-two a {
+        font-size: 19px;
+    }
+    .banner-lft h1 {
+        font-size: 42px;
+        line-height: 52px;
+    }
+    ul.social-media-icons:after {
+        left: 54%;
+    }
+    .leave-img1 img {
+        position: absolute;
+        top: -20px;
+        width: 420px;
+        height: 150px;
+        left: -132px;
+    }
+    .banner-leave3 {
+        position: absolute;
+        bottom: -65px;
+        right: -70px;
+    }
+    .menu-box {
+        height: 400px;
+        width: 100%;
+    }
+    .about-rgt {
+        margin-right: 0px;
+        margin-left: 50px;
+    }
+    section.menu-section {
+        height: 1470px;
+    }
+}
+ @media (max-width: 992px){
+    .circle-img {
+        display: none;
+    }
+} 
+
+@media(max-width: 991px){
+    .about-rgt .leave-img1 img {
+        position: absolute;
+        top: 0px;
+        width: 420px;
+        height: 150px;
+        left: 0px;
+        z-index: 0;
+    }
+    
+    .circle-img {
+        display: none;
+    }
+    .site-logo img {
+        padding-top: 0px;
+        width: 180px;
+        height: auto;
+    }
+    .container-fluid.banner-con {
+        width: 95%;
+    }
+    .row.banner-sec>.col-lg-6.or-2 {
+        order: 2;
+    }
+    .leave-img1 img {
+        top: -37px;
+        width: 420px;
+        height: 150px;
+        left: -35px;
+    }
+    .banner-dish {
+        position: absolute;
+        left: -30px;
+        bottom: 0px;
+        z-index: 99;
+    }
+    .banner-leave3 {
+        position: absolute;
+        bottom: -77px;
+        right: 38px;
+    }
+    .row.banner-sec {
+        margin-top: 120px;
+        margin-bottom: 30px;
+    }
+    section.menu-section {
+        padding: 30px 0px;
+    }
+    section.menu-section {
+        background-image: url(../images/menu-banner3.png);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        height: 2265px;
+    }
+    .menu-box-sect {
+        margin-top: 80px !important;
+    }
+    .menu-heading h2 {
+        font-size: 58px;
+        line-height: 86px;
+    }
+    .menu-box {
+        height: 400px;
+        width: 100%;
+        margin-bottom: 25px;
+    }
+    .banner-lft h1 br {
+        display: none;
+    }
+    .banner-rgt {
+        margin-bottom: 100px;
+    }
+    .banner-lft p br {
+        display: none;
+    }
+    ul.social-media-icons:after {
+        left: 32%;
+    }
+    .about-rgt {
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+    .row.about-section {
+        margin: 60px 0px;
+    }
+    .about-plate {
+        margin-bottom: 70px;
+    }
+    .container-fluid.chef-con>.row>.col-lg-6.col-md-12.order-2 {
+        order: 2;
+    }
+    .chef-sec-rgt {
+        margin-bottom: 30px;
+    }
+    section.chef-section {
+        padding: 30px 0px;
+    }
+    .chef-btn {
+        margin-top: 60px;
+        margin-bottom: 35px;
+    }
+    section.customer-review-section {
+        padding-top: 50px;
+        padding-bottom: 260px;
+    }
+    .container-fluid.customer-con {
+        width: 95%;
+    }
+    .quote-lft-img {
+        left: 0px;
+    }
+    .customerprofile {
+        margin-top: 30px;
+        margin-bottom: 40px;
+    }
+    .quote-rgt-img img {
+        position: absolute;
+        bottom: -64px;
+        right: 0px;
+    }
+    .container-fluid.subscribe-con {
+        width: 95%;
+    }
+    .subscribe-box {
+        padding-top: 60px;
+        padding-bottom: 50px;
+    }
+    section.footer-section {
+        padding-top: 200px;
+    }
+    .container-fluid.footer-con {
+        width: 95%;
+    }
+    .leaf3 {
+        position: absolute;
+        top: 121px;
+        right: -6px;
+    }
+    .order2 {
+        order: 2!important;
+    }
+    .custom-nav {
+        box-shadow: 0 0 19.36px 2.64px rgb(20 21 27 / 7%);
+    } 
+    .custom-nav .book-btn {
+        margin-bottom: 25px;
+    }   
+    .custom-nav .navbar-toggler:focus {
+        box-shadow: none !important;
+    }
+    .about-img {
+        margin-bottom: 60px;
+    }
+    .top-bar {
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        background-color: #222222 !important;
+    }
+    section.top-bar-sec {
+        display: block;
+    }
+    .top-bar .cart-btn img {
+        filter: invert(1);
+    }
+    .top-bar .cart-btn {
+        padding-bottom: 0px;
+    }
+    .top-bar {
+        padding: 8px 0px;
+    }
+    .top-bar .book-btn a {
+        padding: 10px 15px;
+    }
+    .top-bar .btn-one a {
+        padding: 8px 25px;
+    }
+    .custom-nav .cart-btn {
+        display: none !important;
+    }
+    .custom-nav .book-btn {
+        display: none;
+    }
+    .custom-nav .sign-in {
+        display: none;
+    }
+    nav.navbar.navbar-expand-lg.custom-nav.sticky.animated.slideDown .site-logo img {
+        padding-left: 0px;
+    }
+    .row.about-head {
+        margin-top: 90px;
+        margin-bottom: 65px;
+    }
+    .about-head img {
+        height: 68px;
+    }
+    .row.about-pg-sec>.col-lg-6.or-2 {
+        order: 2;
+    }
+    .row.about-pg-sec {
+        margin-bottom: 40px;
+    }
+    .product-box {
+        margin-bottom: 30px;
+    }
+    section.product-sec {
+        height: 591px;
+    }
+    .vision-rgt p {
+        margin-right: 0px;
+    }
+    .mission-lft p {
+        margin-right: 0px;
+    }
+    .about-lft {
+        margin-right: 0px;
+    }
+    .about-rgt .leave-img1 img {
+        position: absolute;
+        top: 0px;
+        width: 420px;
+        height: 150px;
+        left: -35px;
+    }
+    .host-rgt h3 {
+        font-size: 32px;
+        line-height: 42px;
+        margin-bottom: 18px;
+        margin-top: 0px;
+    }
+    .event-team-lft h2 {
+        font-size: 32px;
+        line-height: 41px;
+    }
+    .contact-rgt {
+        margin-top: 30px;
+    }
+    .visit-lft {
+        width: 50%;
+    }
+    .visit-rgt {
+        width: 50%;
+    }
+    .visit-infor-box {
+        padding: 40px 30px;
+        border: 1px solid #dfdfdf;
+    }
+    .book-timing {
+        grid-template-columns: repeat(3, 1fr);
+    }
+    .contact-rgt {
+        text-align: center;
+    }
+    .book-sec {
+        margin-bottom: 0px !important;
+    }
+    .row.event-head {
+        margin-bottom: 40px;
+    }
+    .pd-row {
+        justify-content: space-between;
+    }
+    .row.product-heading {
+        background-color: #ea6d27;
+        justify-content: space-between;
+    }
+    .total-box h3 {
+        font-size: 28px;
+        font-weight: 700;
+    }
+    .total-box {
+        padding: 30px 30px;
+    }
+    .dis-box {
+        width: 100%;
+    }
+    table.shop_table thead th {
+        font-size: 19px;
+        font-weight: 400;
+    }
+    table.shop_table td {
+        font-size: 18px;
+        font-weight: 500;
+    }
+    .d-none-mv {
+        display: none;
+    }
+    .restaurant-menu {
+        justify-content: space-between !important;
+        gap: 20px !important;
+        padding-bottom: 25px!important;
+    }
+}
+@media(max-width: 767px){
+    .email-box input {
+        border: none;
+        width: 217px;
+    }
+    .leave-img1 img {
+        top: -50px;
+        width: 420px;
+        height: 150px;
+        left: -48px;
+    }
+    .banner-dish {
+        position: absolute;
+        left: -44px;
+        bottom: -60px;
+        z-index: 99;
+    }
+    .container-fluid.banner-con {
+        width: 100%;
+    }
+    .banner-lft h1 {
+        font-size: 36px;
+        line-height: 46px;
+    }
+    .banner-lft {
+        text-align: center;
+    }
+    .btn-sec-banner {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    ul.social-media-icons {
+        display: flex;
+        padding-left: 0px;
+        justify-content: center;
+    }
+    ul.social-media-icons:after {
+        left: 72%;
+        width: 45px;
+    }
+    .btn-sec-banner {
+        margin-top: 50px;
+        margin-bottom: 45px;
+    }
+    .menu-heading h2 {
+        font-size: 54px;
+        line-height: 82px;
+    }
+    .container-fluid.menu-con {
+        width: 100%;
+    }
+    .menu-heading p {
+        font-size: 18px;
+        line-height: 28px;
+    }
+    .menu-box-sect {
+        margin-top: 40px !important;
+    }
+    section.menu-section {
+        height: 2920px;
+    }
+    .row.about-section {
+        margin-top: 82px;
+        margin-bottom: 0px;
+    }
+    .chef-sec-lft p {
+        margin-bottom: 0px;
+        margin-right: 0px;
+    }
+    .container-fluid.chef-con {
+        width: 100%;
+    }
+    section.customer-review-section {
+        padding-top: 30px;
+        padding-bottom: 235px;
+    }
+    .customer-main h5 {
+        font-size: 30px;
+        line-height: 42px;
+        padding-left: 72px;
+    }
+    .container-fluid.customer-con {
+        width: 100%;
+    }
+    .subscribe-box h5 br {
+        display: none;
+    }
+    .subscribe-box h5 {
+        font-size: 36px;
+        line-height: 42px;
+        margin-bottom: 32px;
+    }
+    section.footer-section {
+        padding-top: 160px;
+    }
+    .container-fluid.footer-con {
+        width: 100%;
+    }
+    ul.social-media-icons {
+        justify-content: flex-start;
+    }
+    .footer-bottom {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .leaf1 img {
+        width: 55px;
+        height: 128px;
+    }
+    .leaf4 img {
+        width: 56px;
+        height: 108px;
+    }
+    .leaf2 img {
+        width: 95px;
+        height: 72px;
+    }
+    .leaf3 img {
+        width: 92px;
+        height: 70px;
+    }
+    .subscribe-btn a {
+        margin-left: 0px;
+    }
+    .book-btn {
+        width: 50%;
+    }
+    section.customer-review-section button.owl-prev:before {
+        left: 44%;
+    }
+    .top-bar .book-btn {
+        width: auto;
+    }
+    .about-rgt {
+        text-align: center;
+    }
+    .chef-sec-lft {
+        text-align: center;
+    }
+    section.customer-review-section .owl-nav {
+        margin-top: 30px;
+    }
+    .site-logo img {
+        padding-top: 0px;
+        width: 165px;
+        height: 65px;
+    }
+    nav.navbar.navbar-expand-lg.custom-nav.sticky.animated.slideDown .site-logo img {
+    padding-left: 0px;
+    width: 155px;
+    height: 62px;
+    }
+    .custom-navbar li.nav-item .nav-link:hover:before {
+        width: calc(100% - 0px);
+    }
+    .about-head img {
+        height: 62px;
+    }
+    .row.about-head {
+        margin-top: 56px;
+        margin-bottom: 60px;
+    }
+    .about-cir img {
+        width: 225px;
+    }
+    .about-lft {
+        margin-right: 0px;
+    }
+    section.product-sec {
+        height: 1050px;
+        padding: 30px 0px;
+    }
+    .about-lft h1 {
+        margin-bottom: 10px;
+    }
+    section.vision-section {
+        padding: 30px 0px;
+    }
+    .vision-rgt {
+        margin-top: 30px;
+    }
+    .vision-rgt h4 {
+        margin-bottom: 10px !important;
+    }
+    section.mission-section {
+        padding-top: 0px;
+        padding-bottom: 30px;
+    }    
+    .mission-lft h4 {
+        margin-bottom: 10px;
+    }
+    .mission-rgt img {
+        margin-top: 30px;
+    }
+    .footer-sec2 {
+        padding-top: 30px !important;
+    }
+    .about-lft {
+        margin-right: 0px;
+    }
+    .row.about-head {
+        margin-top: 56px;
+        margin-bottom: 40px;
+    }
+    .host-rgt h3 {
+        font-size: 32px;
+        line-height: 42px;
+        margin-bottom: 10px;
+        margin-top: 30px;
+    }
+    section.event-host-section {
+        padding-bottom: 30px;
+    }
+    section.event-team-section {
+        padding: 30px 0px;
+    }
+    .event-team-lft h2 {
+        font-size: 36px;
+        line-height: 46px;
+    }
+    .contact-main {
+        width: 65%;
+        margin-top: 30px;
+        margin-bottom: 45px;
+    }
+    .event-contact-form {
+        padding-top: 25px;
+    }
+    section.event-form {
+        padding: 30px 0px;
+    }
+    .form-row input.form-control {
+        border: none !important;
+        padding: 10px 0px;
+        width: 100%;
+        border-bottom: 1px solid #dfdfdf !important;
+        margin-bottom: 15px;
+        border-radius: 0px;
+    }
+    ::placeholder{
+        color: #ADADAD;
+        font-family: David Libre;
+        font-size: 22px  !important;
+        font-style: normal;
+        font-weight: 400;
+        line-height:  25px ;
+        opacity: 0.6;
+        }
+        form.form-evt button#submit {
+            padding: 6px 25px;
+            margin-top: 15px;
+        }
+        .container-fluid.event-form-con {
+            width: 100%;
+        }
+        .container-fluid.event-team-con {
+            width: 100%;
+        }
+        .container-fluid.host-con {
+            width: 100%;
+        }
+        .container-fluid.contact-con {
+            width: 100%;
+        }
+        .container-fluid.visit-con {
+            width: 100%;
+        }
+        .container-fluid.Booking-con {
+            width: 100%;
+        }
+        .container-fluid.booking-tb-con {
+            width: 100%;
+        }
+        .container-fluid.restaurant-con {
+            width: 100%;
+        }
+        .container-fluid.order-con {
+            width: 100%;
+        }
+        .container-fluid.des-con {
+            width: 100%;
+        }
+        .container-fluid.related-con {
+            width: 100%;
+        }
+        .container-fluid.sub-total-sec {
+            width: 100%;
+        }
+        .visit-row {
+            display: block;
+        }
+        .visit-lft {
+            width: 100%;
+        }
+        .visit-rgt {
+            width: 100%;
+        }
+        .container-fluid.product-cart-con {
+            width: 100%;
+        }
+        .contact-infor-box {
+            padding: 30px;
+        }
+        .contact-infor-box h3 {
+            font-size: 32px;
+            line-height: 36px;
+        }
+        .contact-icon ul.social-media-icons {
+            margin-bottom: 10px;
+        }
+        .visit-heading h2 {
+            font-size: 42px;
+            line-height: 50px;
+        }
+        .visit-infor-box {
+            padding: 40px 30px;
+            padding-bottom: 10px;
+        }
+        section.visit-section {
+            padding: 30px 0px;
+        }
+        .visit-heading {
+            margin-bottom: 30px;
+        }
+        .book-timing {
+            grid-template-columns: repeat(2, 1fr);
+        }
+        .map-leaf {
+            display: none;
+        }
+        .img-box {
+            max-width: 100%;
+            overflow: hidden;
+            border-radius: 50px;
+        }
+        .col-sm-2.d-none-mv {
+            display: none;
+        }
+        .discount-box {
+            margin-bottom: 20px;
+        }
+        table.shop_table .quantity button {
+            width: 26px;
+        }
+        .restaurant-bambo-img {
+            width: 100%;
+            flex: 0 0 auto;
+        }
+}
+@media(max-width: 580px){
+    section.customer-review-section button.owl-prev:before {
+        left: 42%;
+    }
+    table.shop_table thead th {
+        font-size: 16px;
+        font-weight: 400;
+    }
+    table.shop_table .quantity button {
+        width: 22px;
+    }
+    table.shop_table .quantity input {
+        width: 22px;
+    }
+    section.sub-total-section {
+        padding: 25px 0px;
+    }
+    
+}
+@media(max-width: 576px){
+.mobile-view {
+    display: none;
+}
+}
+
+@media(max-width: 480px){
+    .email-box {
+        flex-wrap: wrap;
+    }
+    .leave-img1 img {
+        top: -55px;
+        width: 420px;
+        height: 150px;
+        left: -25px;
+    }
+    .banner-lft h1 {
+        font-size: 34px;
+        line-height: 42px;
+    }
+    ul.social-media-icons:after {
+        left: 55%;
+        width: 45px;
+    }
+    .menu-heading h2 {
+        font-size: 42px;
+        line-height: 72px;
+    }
+    .menu-heading p {
+        font-size: 17px;
+        line-height: 28px;
+    }
+    .box-lft-menu h3 {
+        font-size: 26px;
+        line-height: 40px;
+    }
+    .row.about-section {
+        margin-top: 35px;
+        margin-bottom: 0px;
+    }
+    .leaf1 {
+        position: absolute;
+        bottom: 130px;
+        left: 10px;
+    }
+    .leaf4 {
+        position: absolute;
+        right: 68px;
+        top: -3px;
+    }
+    section.menu-section {
+        height: 2765px;
+    }
+    .chef-sec-lft h4 {
+        font-size: 42px;
+        line-height: 52px;
+        margin-bottom: 22px;
+    }
+    .btn-sec-banner {
+        margin-top: 35px;
+    }
+    .customer-main h5 {
+        padding-top: 18px;
+        font-size: 28px;
+        line-height: 32px;
+        padding-left: 72px;
+    }
+    .customerprofile {
+        margin-top: 30px;
+        margin-bottom: 25px;
+    }
+    .customer-msg p {
+        font-size: 17px;
+    }
+    .subscribe-box h5 {
+        font-size: 32px;
+        line-height: 38px;
+        margin-bottom: 32px;
+    }
+    .opening-hours {
+        padding-bottom: 10px;
+    }
+    .chef-btn {
+        margin-bottom: 20px;
+    }
+    section.customer-review-section button.owl-prev:before {
+        left: 40%;
+    }
+    .top-bar .book-btn a ,.sign-in a{
+        font-size: 14px;
+    }
+    .top-bar .cart-btn img {
+        width: 28px;
+    }
+    .banner-dish {
+        position: absolute;    
+        left: -65px;
+        bottom: -110px;
+        z-index: 99;
+    }
+    .banner-rgt {
+        margin-bottom: 130px;
+    }
+    .about-rgt h4 {
+        margin-bottom: 5px;
+    }
+    section.customer-review-section {
+        padding-top: 30px;
+        padding-bottom: 210px;
+    }
+    .email-box input {
+        border: none;
+        width: 170px;
+    }
+    .subscribe-btn {
+        width: 0%;
+    }
+    .banner-rgt img {
+        width: 335px;
+        height: auto;
+    }
+    .about-cir img {
+        width: 225px;
+    }
+    .about-cir {
+        position: absolute;
+        left: -25px;
+    }
+    .about-rgt .leave-img1 img {
+        position: absolute;
+        top: -48px;
+        width: 420px;
+        height: 150px;
+        left: -25px;
+    }
+    .cart-btn img {
+        margin-right: 22px;
+    }
+    .host-rgt h3 br {
+        display: none;
+    }
+    .host-rgt h3 {
+        font-size: 26px;
+        line-height: 36px;
+        margin-bottom: 10px;
+        margin-top: 30px;
+    }
+    .host-rgt {
+        text-align: center;
+    }
+    .event-team-lft h2 {
+        font-size: 31px;
+        line-height: 42px;
+    }
+    .contact-main {
+        width: 85%;
+        margin-top: 10px;
+        margin-bottom: 32px;
+    }
+    .event-form-lft img {
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+    }
+    .contact-infor-box {
+        padding: 22px;
+    }
+    .visit-heading h2 {
+        font-size: 38px;
+        line-height: 48px;
+    }
+    .visit-infor-box {
+        padding: 30px 25px;
+        padding-bottom: 10px;
+    }
+    .visit-infor-box h3 {
+        font-size: 26px;
+        line-height: 36px;
+        margin-bottom: 26px;
+    }
+    .p-t {
+        padding-top: 0px !important;
+    }
+    .book-timing {
+        grid-template-columns: repeat(1, 1fr);
+        width: 100%;
+    }
+    .call {
+        padding-left: 35px;
+    }
+    .booking-banner.banner-leave3 {
+        position: absolute;
+        bottom: -130px;
+        right: 38px;
+    }
+    .row.event-head {
+        margin-bottom: 15px;
+    }
+    .host-con figure {
+        margin-bottom: 0px;
+    }
+    .host-con .host-rgt h3 {
+        margin-top: 10px;
+    }
+    .event-form-con figure {
+        margin-bottom: 0px;
+    }
+    table.shop_table .quantity button {
+        width: 18px;
+    }
+    table.shop_table .quantity input {
+        width: 18px;
+    }
+    table.shop_table td {
+        font-size: 17px;
+        font-weight: 500;
+    }
+    .total-box h3 {
+        font-size: 27px;
+        font-weight: 700;
+    }
+    .discount-box p {
+        margin-bottom: 5px;
+    }
+    section.related-sec {
+        padding-bottom: 0px !important;
+    }
+   
+}
+@media(max-width: 360px){
+    .btn-one a, .btn-two a {
+        font-size: 20px;
+        line-height: 29px;
+        padding: 13px 20px;
+    }
+    ul.social-media-icons:after {
+        left: 65%;
+    }
+    .chef-sec-lft h4 {
+        font-size: 38px;
+        line-height: 52px;
+        margin-bottom: 22px;
+    }
+    .footer-logo {
+        margin-bottom: 35px;
+        margin-top: 30px;
+    }
+    .email-box input {
+        border: none;
+        width: 165px;
+    }
+    .row.about-head {
+        margin-top: 50px;
+        margin-bottom: 30px;
+    }
+    .event-team-lft h2 {
+        font-size: 28px;
+        line-height: 36px;
+    }
+    .contact-main {
+        width: 95%;
+        margin-top: 10px;
+        margin-bottom: 32px;
+    }
+    .subpg-heading h2 {
+        font-size: 35px;
+        line-height: 42px;
+    }
+    .contact-infor-box h3 {
+        font-size: 26px;
+        line-height: 36px;
+    }
+    .visit-heading h2 {
+        font-size: 35px;
+        line-height: 48px;
+    }
+    .visit-infor-box {
+        padding: 26px 5px;
+        padding-bottom: 10px;
+    }
+    .visit-infor-box h3 {
+        font-size: 26px;
+        line-height: 36px;
+        margin-bottom: 15px;
+    }
+    .visit-infor-box .add-rgt p {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .visit-infor-box .add-rgt p a {
+        font-size: 18px;
+    }
+    .visit-infor-box .address-r {
+        margin-bottom: 28px;
+    }
+    .book-timing {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}

@@ -1,0 +1,903 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'David Libre';
+}
+
+.restaurant {
+  width: 100%;
+  padding: 0px 30px;
+  padding-top: 120px;
+}
+
+.restaurant-h1 {
+  text-align: center;
+}
+
+.restaurant-h1 img {
+  max-width: 100%;
+  width: 175px;
+  height: 82px;
+
+}
+
+.restaurant-ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 100px;
+  padding: 50px 0px;
+
+}
+
+.restaurant-ul .active {
+  color: #EA6D27;
+  border-bottom: 2px solid #EA6D27;
+}
+
+.restaurant-ul li a {
+  text-decoration: none;
+  color: black;
+  font-size: 32px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all .5s ease-in-out;
+}
+
+.restaurant-ul li a:hover {
+  color: #EA6D27;
+  /* letter-spacing: 1px; */
+  /* transform:scale(1.1); */
+  border-bottom: 2px solid #EA6D27;
+}
+
+.sub-category {
+  /* overflow-y: auto; */
+  width: 100%;
+  height: 550px;
+}
+.sub-category ul {
+  list-style: none;
+}
+
+.sub-category ul li a {
+  text-decoration: none;
+  font-size: 25px;
+  color: black;
+  padding-left: 15px;
+  transition: all .1s;
+
+}
+ul.menu-list li {
+  padding: 8px 10px;
+  margin-bottom: 18px;
+  width: 280px;
+}
+ul.menu-list li:hover img {
+  background-color: #fff;
+  border-radius: 60px;
+  padding: 5px 6px;
+}
+ul.menu-list li:hover {
+  background-color: #ea6d27;
+  border-radius: 60px;
+  width: 270px;
+}
+.sub-category ul li a:hover {
+  color: white;
+}
+.sub-category ul img {
+  width: 42px;
+  height: 42px;
+}
+
+.restaurant-img {
+  margin-bottom: 20px;
+}
+
+.restaurant-img img {
+  width: 100%;
+}
+
+.restaurant-col {
+  background-color: #F3F4F4;
+  padding: 5px 15px;
+}
+
+.rest-button {
+  padding-bottom: 0px;
+}
+
+.rest-button p {
+  display: inline-block;
+  font-size: 20px;
+  padding-top: 3px;
+  font-weight: 500;
+  font-family: 'David Libre';
+}
+
+.rest-button span {
+  background-color: #EA6D27;
+  float: right;
+  padding: 5px 14px;
+  color: white;
+  font-family: 'David Libre';
+
+}
+
+.rest-icon {
+  border-top: 1px dashed #a3a7a7;
+  padding-top: 7px;
+  font-size: 16px;
+  font-family: 'David Libre';
+}
+
+.rest-icon span {
+  float: right;
+  color: #EA6D27;
+  font-size: 13px;
+  padding-right: 15px;
+
+}
+
+/* footer section */
+.anuj-footer {
+  padding-top: 50px !important;
+}
+
+.home {
+  display: none;
+}
+
+/* ::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px #acabab;
+  border-radius: 10px;
+ 
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 10px;
+  background-color:#fff;
+  -webkit-box-shadow: inset 0 0 6px #e0dfde;
+  background-color: orangered;
+} */
+
+
+/*@@ Order-Page start @@*/
+
+.order-sect {
+  width: 100%;
+  height: auto;
+
+}
+
+/* .order-heading {
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+.order-heading h1 {
+  display: inline-block;
+  border-top: 2px solid #00356A;
+  border-bottom: 2px solid #00356A;
+  color: #DD582A;
+  font-weight: bold;
+  font-family: 'David Libre';
+} */
+
+.ckicken-img img {
+  width: 100%;
+}
+
+.chicken-paragraph {
+  border-bottom: 1px dashed #C4C4C4;
+}
+
+.chicken-paragraph h1 {
+  color: #DD582A;
+  font-family: 'David Libre';
+  padding-top: 17px;
+}
+
+.chicken-paragraph p {
+  font-size: 17px;
+  color: #EA6D27;
+  font-family: 'David Libre';
+}
+
+.chicken-paragraph p span {
+  color: #C4C4C4;
+  font-family: 'David Libre';
+  padding-left: 10px;
+}
+
+.chicken-div p {
+  font-family: 'David Libre';
+  color: #555555;
+  padding-top: 35px;
+}
+
+.chicken-box {
+  display: flex;
+  gap: 30px;
+  padding-top: 20px;
+}
+
+.chicken-box p {
+  padding: 0px;
+}
+
+.box-1 {
+  width: 60px;
+  height: 45px;
+  border: 1px solid #EA6D27;
+}
+
+.box-2 {
+  width: 120px;
+  height: 45px;
+  border: 1px solid #EA6D27;
+  padding: 10px 17px;
+  font-size: 18px;
+
+}
+
+.box-2 p {
+  color: #292E36;
+}
+
+.category {
+  padding-top: 30px;
+}
+
+.category span {
+  font-size: 17px;
+  font-family: 'David Libre';
+}
+
+.category span em {
+  color: #DD582A;
+  font-style: normal;
+  font-family: 'David Libre';
+  font-size: 17px;
+  font-weight: bold;
+  padding-left: 5px;
+}
+
+.category span i {
+  padding-left: 10px;
+}
+
+/* <!-- Description Start --> */
+.description {
+  width: 100%;
+  height: auto;
+
+
+
+}
+
+.description p {
+  font-family: 'Josefin Sans';
+  color: #292E36;
+
+}
+
+.description span {
+  padding-left: 20px;
+  color: #C4C4C4;
+  font-family: 'Josefin Sans';
+}
+
+.description-heading {
+  border-top: 2px dashed #C4C4C4;
+  border-bottom: 2px dashed #C4C4C4;
+  padding: 15px 0px;
+}
+
+.description-heading h2 {
+  font-family: 'David Libre';
+  color: #292E36;
+  font-weight: bold;
+}
+
+.description-heading p {
+  color: #555555;
+  font-size: 17px;
+  font-family: 'David Libre';
+}
+
+/* <!-- Related Section Start --> */
+.related-sec {
+  width: 100%;
+  height: auto;
+
+
+}
+
+.related-heading h2 {
+  color: #DD582A;
+  font-family: 'David Libre';
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+
+.related-dishe {
+  background-color: #F3F4F4;
+}
+
+.related-dishe img {
+  width: 100%;
+}
+
+.related-dishe p {
+  padding-top: 7px;
+  align-items: center;
+  font-family: 'David Libre';
+  font-size: 18px;
+  font-weight: 500;
+
+}
+
+.chasew-chicken {
+  padding: 5px 10px;
+}
+
+.chasew-chicken span {
+  float: right;
+  background-color: #EA6D27;
+  color: #FFFFFF;
+  padding: 3px 10px;
+  font-family: 'David Libre';
+  font-weight: normal;
+}
+
+.chicken-star {
+  border-top: 1px dashed #AAAAAA;
+  padding: 5px 0px;
+  margin: 0px 10px;
+
+}
+
+.chicken-star p {
+  color: #000000;
+  font-family: 'Inter';
+  font-size: 17px;
+}
+
+.chicken-star span {
+  color: #E1B168;
+  float: right;
+  font-size: 15px;
+  padding-right: 20px;
+}
+
+
+/*@@ Menu-Page-Start @@*/
+
+.restaurant-menu {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  /* justify-content: left; */
+  gap: 100px;
+  padding-bottom: 40px;
+} 
+/* ul.restaurant-menu{
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none
+} */
+
+.restaurant-menu .active {
+  color: #EA6D27;
+  border-bottom: 2px solid #EA6D27;
+}
+
+.restaurant-menu li a {
+color:#233000;
+text-align: center;
+font-feature-settings: 'clig' off, 'liga' off;
+font-family: 'David Libre';
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: 64px;
+cursor: pointer;
+transition: all .5s ease-in-out; 
+text-decoration: none;
+}
+.restaurant-menu li a:hover {
+  color: #EA6D27;
+  /* letter-spacing: 1px; */
+  /* transform:scale(1.1); */
+  border-bottom: 2px solid #EA6D27;
+}
+
+.restaurant-menu-2 {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: right;
+  gap: 30px;
+  padding: 50px 0px;
+
+}
+
+.restaurant-menu-2 li {
+  text-decoration: none;
+  color: black;
+  font-size: 30px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all .5s ease-in-out;
+}
+
+/* Bamboo Section Start */
+.restaurant-bambo-img {
+  background-color: #F5F5F5;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+
+.bambo-radiur-1 {
+  width: 100%;
+
+}
+
+.bambo-radiur-1 img {
+  width: 100%;
+}
+
+.bambo-radius {
+  width: 100%;
+  height: 230px;
+  border-radius: 50px;
+  background-color: #DBDBDB;
+  box-shadow: 0px 0px 10px  #acaaaa;
+  margin-top: -90px;
+  /* display: flex; */
+  /* justify-content: left;
+  align-items: center; */
+
+}
+
+.bambo-radius p {
+  padding-top: 100px;
+  padding-left: 25px;
+  color: #000000;
+  font-family: 'David Libre';
+  font-size: 20px;
+  font-weight: bold;
+
+}
+.bambo-radius p span{
+  font-weight: normal;
+  font-size: 17px;
+
+}
+.chicken-button{
+  float: right;
+  margin-top: -44px;
+  padding-right: 13px;
+}
+.sub-category ul {
+  padding-left: 0px;
+}
+.container-fluid.restaurant-con {
+  width: 80%;
+}
+.sub-category ul li:hover a{
+  color:#fff;
+}
+ul.p-ul {
+  list-style-type: none;
+  padding-left: 0px;
+}
+ul.p-ul li {
+  display: inline-block;
+  padding-right: 15px;
+}
+ul.p-ul li a {
+  color: #000;
+  font-family: David Libre;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  text-decoration: none;
+  padding: 10px 20px;
+  background-color: #ea6d27;
+  border-radius: 30px;
+}
+.text.p {
+  color: #FFF;
+  font-family: David Libre;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-bottom: 15px;
+}
+.restaurant-bambo-img {
+  position: relative;
+}
+.overlay {
+  width: 100%;
+  height: 230px;
+  border-radius: 50px;
+  background-color: #18181C;
+  box-shadow: 0px 0px 10px #acaaaa;
+  /* padding: 30px 22px; */
+  position: relative;
+}
+.cross-btn {
+  position: absolute;
+  right: 15px;
+  bottom: 18px;
+}
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  overflow: hidden;
+  width: 100%;
+  height: 0;
+  transition: .5s ease;
+}
+.text.p {
+  padding: 20px 40px 0px;
+  margin-bottom: 0px;
+}
+.icon-port {
+  padding: 20px 40px 0px;
+}
+.p2 {
+  padding-top: 10px !important;
+}
+.info-btn{
+  position: absolute;
+  right: 15px;
+  bottom: 18px;
+}
+.restaurant-bambo-img .overlay.active{
+  height: 70%;
+} 
+.resta-menu {
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  flex-wrap: wrap;
+
+}
+.resta-menu-2 {
+  padding-left: 0px;
+  list-style-type: none;
+  text-align: right;
+}
+.resta-menu-2 li {
+  display: inline-block;
+  margin-left: 42px;
+
+}
+.resta-menu-2 li {
+  color: #233000;
+  font-family: 'David Libre';
+  font-size: 29px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 64px;
+  cursor: pointer;
+  transition: all .5s ease-in-out;
+  text-decoration: none;
+}
+.resta-menu-2 i {
+  font-weight: 300;
+  font-family: 'FontAwesome';
+}
+.menu-list {
+  overflow-y: scroll;
+  height: 600px;
+  overflow-x: hidden;
+}
+
+/* width */
+.menu-list::-webkit-scrollbar {
+  width: 5px;
+  border-radius: 10px;
+}
+
+/* Track */
+ul.menu-list::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 10px; 
+}
+ 
+/* Handle */
+ul.menu-list::-webkit-scrollbar-thumb {
+  background: #ea6d27d6;
+  border-radius: 10px; 
+}
+
+/* Handle on hover */
+ul.menu-list::-webkit-scrollbar-thumb:hover {
+  background: #EA6D27; 
+}
+/* order page css start */
+.container-fluid.order-con {
+  width: 80%;
+}
+.container-fluid.des-con {
+  width: 80%;
+}
+section.description-sec {
+  padding: 50px 0px
+}
+.description-paragraph span {
+  color: #C4C4C4;
+  font-family: Josefin Sans;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 12px;
+  text-transform: uppercase;
+  padding-left: 20px;
+}
+.description-paragraph p {
+  color: #292E36;
+  font-family: Josefin Sans;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 12px;
+  text-transform: uppercase;
+}
+.container-fluid.related-con {
+  width: 80%;
+}
+section.related-sec {
+  padding-bottom: 60px;
+}
+.chicken-box .box-2 p {
+  margin-bottom: 0px;
+}
+.chicken-box .box-1 p {
+  margin-bottom: 0px;
+}
+.line-dot {
+  position: relative;
+}
+.line-dot:before {
+  content: "\A";
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #C4C4C4;
+  display: inline-block;
+  left: -3px;
+  bottom: -4px;
+  position: absolute;
+}
+.line-dot:after {
+  content: "\A";
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #C4C4C4;
+  display: inline-block;
+  right: -3px;
+  bottom: -4px;
+  position: absolute;
+}
+.top-dot{
+  position: relative;
+}
+.top-dot:before {
+  content: "\A";
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #C4C4C4;
+  display: inline-block;
+  left: -3px;
+  top: -20px;
+  position: absolute;
+}
+.top-dot:after {
+  content: "\A";
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #C4C4C4;
+  display: inline-block;
+  right: -3px;
+  top: -20px;
+  position: absolute;
+}
+.dot-align:before {
+  top: -6px;
+}
+.dot-align:after {
+  top: -6px;
+}
+
+
+/*@@ Sign In Page Start @@*/
+.sign-box{
+  display: flex;
+  justify-content: center;
+  background-color: rgb(211, 211, 211);
+}
+
+.signin-section{
+  font-family: 'David Libre'; 
+  background-color: #F3F4F4;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  width: 90%;
+
+  
+
+}
+.form-section-sign-in{
+  background-color:#FFFFFF;
+padding: 10px 0px;
+border-top-right-radius: 35px;
+}
+.Create-accont{
+  font-family: 'David Libre';
+  text-align: left;
+  padding-left: 55px;
+}
+.Create-accont h4{
+  color: #0B4654;
+  font-size: 37px;
+
+}
+.sign-form{
+  font-family: 'David Libre';
+}
+.sign-form form input{
+  width: 100%;
+  height: 49px;
+  border-radius: 9px;
+  padding-left: 42px; 
+  color: #CECECE;
+border: 2px solid #CECECE ;
+
+}
+.sign-form form {
+  width: 90%;
+  padding: 20px;
+  margin-left: 35px;
+
+}
+.sign-form form input::placeholder{
+  font-size: 21px !important;
+}
+.full-name i{
+  position: absolute;
+  margin-top: 35px;
+  color: #84A2A9;
+  font-size: 20px;
+  padding-left: 15px;
+}
+.gmail i{
+  position: absolute;
+  margin-top: 35px;
+  color: #84A2A9;
+    font-size: 20px;
+    padding-left: 15px;
+}
+.password i{
+  position: absolute;
+  margin-top: 35px;
+  color: #84A2A9;
+  font-size: 20px;
+  padding-left: 15px;
+}
+#eye-font{
+  position: absolute;
+  margin-top: 14px;
+  margin-left: -49px;    
+
+}
+.sign-in-btn button{
+  width: 100%;
+  background-color: #EA6D27;
+  border: 2px solid #EA6D27;
+  height: 49px;
+  border-radius: 9px;
+  margin-bottom: 13px;
+  margin-top: 30px;
+  color: white;
+  font-size: 19px;
+  box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+
+}
+.or-div{
+  text-align: center;
+  font-size:19px;
+  font-weight:500;
+  font-family: 'David Libre';
+  padding: 0px !important;
+  margin: 0px !important;
+
+}
+.google-sign-up button{
+  width: 100%;
+  height: 49px;
+  font-size: 19px;
+  border-radius: 9px;
+  margin-bottom: 30px;
+  border: 2px solid #CECECE ;
+  color:#9F9F9F ;
+  background-color: white;
+}
+.google-sign-up img{
+  margin-bottom:3px; 
+  margin-right:5px; 
+  padding-right: 6px;
+}
+.login-text{
+text-align: center ;
+  margin-top: 20px;
+}
+.login-text p em{
+  color: #EA6D27;
+  opacity: 1;
+  font-style: normal;
+}
+.login-text p{
+  font-size: 20px;
+  color:#9F9F9F ;
+}
+
+.signin-image img {
+  width: 80%;
+  margin-top: 60px;
+  margin-left: 40px;
+}
+
+/*@@ Menu Page Start @@*/
+
+
+
+.signin-image{
+  overflow: hidden;
+}
+.signin-image img {
+  width: 80%;
+  margin-top: 60px;
+  margin-left: 40px;
+  transition: all .5s;
+  animation: animName 20s linear infinite ;
+}
+@keyframes animName {
+  0%{
+     transform: rotate(0deg);
+    }
+ 100%{
+     transform: rotate(360deg);
+    }
+ }
+ .full-name i {
+  position: absolute;
+  padding-top: 10px;
+  color: #84A2A9;
+  font-size: 20px;
+  padding-left: 15px;
+}
+.sign-form form input::placeholder{
+  font-size: 21px !important;
+}
+.rest-row {
+  justify-content: space-evenly;
+}

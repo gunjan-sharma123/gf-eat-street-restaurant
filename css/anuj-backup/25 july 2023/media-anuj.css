@@ -1,0 +1,271 @@
+@media (min-width:350px) and (max-width:550px) {
+    .restaurant {
+        width: 100%;
+        padding: 10px 5px;
+        padding-top: 55px;
+    }
+
+    .restaurant-ul {
+        list-style: none;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+        padding: 10px 0px;
+        padding-top: 30px;
+
+    }
+
+    .restaurant-ul li a {
+        text-decoration: none;
+        color: black;
+        font-size: 20px;
+
+    }
+
+    .sub-category {
+        height: 450px;
+    }
+
+    .sub-category ul li:hover {
+        background-color: #EA6D27;
+        border-radius: 50px;
+        padding: 6px 8px;
+
+
+    }
+
+    .sub-category ul {
+        padding-left: 0px;
+    }
+
+    .sub-category ul li {
+        padding-top: 5px;
+
+    }
+
+    .sub-category ul li a {
+        font-size: 18px;
+
+    }
+
+    .sub-category ul img {
+        margin-top: -5px;
+        background-color: white;
+        border-radius: 50px;
+        padding: 5px 6px;
+        width: 38px;
+        height: 35px;
+    }
+
+    .restaurant-col {
+        background-color: #F3F4F4;
+        padding: 5px 0px;
+    }
+
+    .rest-button {
+        padding-bottom: 5px;
+    }
+
+    .rest-button p {
+        display: inline-block;
+        font-size: 17px;
+        padding-top: 3px;
+
+
+    }
+
+    .rest-icon {
+        border-top: 1px dashed #a3a7a7;
+        padding-top: 7px;
+        font-size: 16px;
+    }
+
+    .rest-icon p {
+        margin-top: 5px;
+    }
+
+}
+
+@media (min-width:551px) and (max-width:767px) {
+
+    .restaurant {
+        width: 100%;
+        padding: 10px 10px;
+        padding-top: 85px;
+    }
+
+    .restaurant-ul {
+        list-style: none;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 30px;
+        padding: 0px 2px;
+        padding-top: 40px;
+
+    }
+
+    .restaurant-ul li a {
+        text-decoration: none;
+        color: black;
+        font-size: 32px;
+
+    }
+
+    .sub-category {
+        height: 450px;
+    }
+
+    .sub-category ul {
+        padding: 25px 0px;
+        padding-top: 0px;
+        padding-left: 150px;
+
+    }
+
+    .sub-category ul li {
+        padding-bottom: 5px;
+
+    }
+
+    .sub-category ul li a {
+        font-size: 31px;
+
+    }
+
+    .sub-category ul img {
+        margin-top: -14px;
+
+    }
+
+    .restaurant-col {
+        background-color: #F3F4F4;
+        padding: 5px 0px;
+    }
+
+    .rest-button {
+        padding-bottom: 5px;
+    }
+
+}
+
+/* Order Page responsive */
+@media (min-width:320px) and (max-width:767px) {
+    .order-sect {
+        width: 100%;
+        height: auto;
+
+    }
+
+    .related-dishe {
+        margin-bottom: 25px;
+    }
+
+}
+@media (min-width:972px) and (max-width:12987px) {
+   .order-sect{
+    padding-top: 40px;
+   }
+}
+@media (min-width:767px) and (max-width:972px) {
+    .ckicken-img {
+        padding: 50px 0px;
+    }
+        
+    }
+@media (min-width:767px) and (max-width:1200px) {
+    .ckicken-img img {
+        width: 100%;
+        height: 100%;
+        
+    }
+
+    .second-div {
+        padding: 10px 0px;
+    }
+
+    .chicken-paragraph h1 {
+        padding-top: 0px;
+    }
+
+    .chicken-paragraph p {
+        font-size: 17px;
+    }
+
+    .chicken-paragraph p span {
+        padding-left: 10px;
+    }
+
+    .chicken-div p {
+        padding-top: 10px;
+    }
+
+    .chicken-box {
+        padding-top: 0px;
+    }
+
+    .chicken-box p {
+        padding: 0px;
+    }
+
+    .box-1 {
+        width: 60px;
+        height: 45px;
+
+    }
+
+    .box-2 {
+        width: 120px;
+        height: 45px;
+        padding: 10px 17px;
+        font-size: 18px;
+
+    }
+
+    .category {
+        padding-top: 10px;
+    }
+
+    .category span em {
+        font-style: normal;
+        font-size: 17px;
+        padding-left: 5px;
+    }
+
+    /* Related section */
+    .related-con {
+        width: 100%;
+    }
+
+    .chasew-chicken {
+        padding: 5px 0px;
+    }
+
+    .chasew-chicken p {
+        font-size: 14px;
+        display: inline;
+        padding-left: 7px;
+    }
+
+    .chasew-chicken span {
+        padding: 3px 7px;
+        font-size: 13px;
+margin-right: 7px;
+    }
+
+    .chicken-star p {
+        font-size: 13px;
+    }
+
+    .chicken-star span {
+        font-size: 13px;
+        padding-right: 10px;
+    }
+
+}
+@media (max-width:1200px){
+    .container-fluid.related-con {
+        width: 96% !important;
+    }
+}
